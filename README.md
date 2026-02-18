@@ -1,18 +1,10 @@
 
 
-DATABASE_URL=
-DIRECT_URL=
 
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
 
-GEMINI_API_KEY=
-
-RESEND_API_KEY=
-
-ARCJET_KEY=
 ```
+i am greatly thankful for this
+
+thanks to our guide Mr. satish kumar sir for this wonderful opportunity to do mini project
+
+thanks to mr roadside coder for this wonderful idea to help me to create a web application  
